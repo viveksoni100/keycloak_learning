@@ -1,0 +1,14 @@
+server:
+  port: 9090
+
+spring:
+  h2:
+    console:
+      enabled: true
+
+keycloak:
+  realm: demo-realm
+  auth-server-url: http://localhost:8080/auth
+  resource: keycloak-demo #client-id
+  public-client: true
+  bearer-only: true
