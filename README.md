@@ -1,1 +1,1 @@
-https://www.youtube.com/watch?v=La082JsJoH4&t=353s
+visit my blog for in detail explanation: https://whywhytechnova.com/blogs/keycloak-identity-and-access-management.html
